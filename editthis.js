@@ -3,9 +3,9 @@ var site = {
     name : 'Tanisha Singhal',
     job: 'Front-End Developer and Business Analyst',
        /* This decription is used both in meta tag and about page */
-    description: `Hi there! I am Adithya Pai B from Mangalore, India.
-    I am currently pursuing Bachelor of Engineering in Computer Science.
-    I ❤️ to design Websites, UI/UX, and Photography.`,
+    description: `Hi there! I am Tanisha Singhal from Delhi, India.
+    I am currently pursuing Bachelor of Technology in Engineering Physics.
+    I ❤️ to design Websites, doing prograaming stuff, Managing teams and i love reading blogs.`,
     /* Change your skills and title accodingly */
     skills_title: ['Web Development','Programming'],
     skills: [['HTML', 'CSS', 'JS', 'ReactJS','MYSQL'], ['Photoshop', 'XD','Figma'],['JAVA','Python3','Javascript']],
