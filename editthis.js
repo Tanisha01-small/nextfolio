@@ -16,8 +16,7 @@ var site = {
         linkedin: 'http://www.linkedin.com/in/tanisha01singhal',
         mail: 'mailto: tanishasinghal0101@gmail.com',
     },
-    form: 'https://formsubmit.co/tanishasinghal0101@gmail.com',
-    /* DONT FOR GET TO ACTIVATE UR EMAIL AFTER SETTING UP THE FORM TO RECEIVE EMAILS */
+    form: 'https://formsubmit.co/tanishasinghal0101@gmail.com',method="POST",
     projects: [
         ["https://google.com", 'https://www.ijraset.com/best-journal/recycling-marine-plastic-into-clothing-apparel-via-global-collaborations',"https://github.com/adithyapaib/portfolio-template", "https://github.com/adithyapaib/portfolio-template"],
          ['Title', 'Research Paper', "Title", "Title"],
