@@ -15,6 +15,7 @@ var site = {
         github: 'https://github.com/Tanisha01-small',
         linkedin: 'http://www.linkedin.com/in/tanisha01singhal',
         mail: 'mailto: tanishasinghal0101@gmail.com',
+        instagram: 'https://www.instagram.com/tanu24_01/',
     },
     form: 'https://formsubmit.co/tanishasinghal0101@gmail.com',method="POST",
     projects: [
