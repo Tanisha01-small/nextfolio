@@ -12,7 +12,7 @@ var site = {
     skillp:[[100, 80 ,100, 60, 80], [50, 60, 50], [70,80,90,90]],
     social: {
         /* Add your social media links here */
-        github: 'https://github.com/Tanisha01-smal',
+        github: 'https://github.com/Tanisha01-small',
         linkedin: 'http://www.linkedin.com/in/tanisha01singhal',
         mail: 'mailto: tanishasinghal0101@gmail.com',
     },
