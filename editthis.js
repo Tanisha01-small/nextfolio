@@ -20,8 +20,8 @@ var site = {
     /* DONT FOR GET TO ACTIVATE UR EMAIL AFTER SETTING UP THE FORM TO RECEIVE EMAILS */
     projects: [
         ["https://google.com", 'https://www.ijraset.com/best-journal/recycling-marine-plastic-into-clothing-apparel-via-global-collaborations',"https://github.com/adithyapaib/portfolio-template", "https://github.com/adithyapaib/portfolio-template"],
-         ['Title', 'Title', "Title", "Title"],
-        ['Decription', 'Decription', "Decription", "Decription"],
+         ['Title', 'Research Paper', "Title", "Title"],
+        ['Decription', 'Research Paper Published During 3rd semester', "Decription", "Decription"],
         
     ],
     //Web site color scheme
