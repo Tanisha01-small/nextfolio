@@ -18,13 +18,16 @@ var site = {
         mail: 'mailto: tanishasinghal0101@gmail.com',
         instagram: 'https://www.instagram.com/tanu24_01/'
     },
-    form: 'https://formsubmit.co/tanishasinghal0101@gmail.com',method="POST",
+
     projects: [
         ["https://google.com", 'https://www.ijraset.com/best-journal/recycling-marine-plastic-into-clothing-apparel-via-global-collaborations',"https://github.com/adithyapaib/portfolio-template", "https://github.com/adithyapaib/portfolio-template"],
          ['Title', 'Research Paper', "Title", "Title"],
         ['Decription', 'Research Paper Published During 3rd semester', "Decription", "Decription"],
         
     ],
+
+    form: 'https://formsubmit.co/tanishasinghal0101@gmail.com',method="POST",
+    
     //Web site color scheme
     color: "#2D46B9"
    
