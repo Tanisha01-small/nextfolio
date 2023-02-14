@@ -19,7 +19,7 @@ var site = {
     form: 'https://forms.gle/WpzVyKK9b7UsXfY8A',
     /* DONT FOR GET TO ACTIVATE UR EMAIL AFTER SETTING UP THE FORM TO RECEIVE EMAILS */
     projects: [
-        ["https://google.com", 'https://github.com/adithyapaib/portfolio-template',"https://github.com/adithyapaib/portfolio-template", "https://github.com/adithyapaib/portfolio-template"],
+        ["https://google.com", 'https://www.ijraset.com/best-journal/recycling-marine-plastic-into-clothing-apparel-via-global-collaborations',"https://github.com/adithyapaib/portfolio-template", "https://github.com/adithyapaib/portfolio-template"],
          ['Title', 'Title', "Title", "Title"],
         ['Decription', 'Decription', "Decription", "Decription"],
         
