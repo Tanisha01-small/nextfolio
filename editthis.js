@@ -13,6 +13,7 @@ var site = {
     social: {
         /* Add your social media links here */
         github: 'https://github.com/Tanisha01-small',
+        twitter: 'https://twitter.com/Tanisha40004746',
         linkedin: 'http://www.linkedin.com/in/tanisha01singhal',
         mail: 'mailto: tanishasinghal0101@gmail.com',
         instagram: 'https://www.instagram.com/tanu24_01/'
