@@ -8,11 +8,11 @@ var site = {
     I ❤️ to design Websites, doing programming stuff, Managing teams and i love reading blogs.`,
     /* Change your skills and title accodingly */
     skills_title: ['Web Development','Programming'],
-    skills: [['HTML', 'CSS', 'JS', 'ReactJS','MYSQL'],['JAVA','Python3','Javascript']],
+    skills: [['HTML', 'CSS', 'JS', 'ReactJS','MYSQL'],['Community Management'],['JAVA','Python3','Javascript']],
     skillp:[[100, 80 ,100, 60, 80], [50, 60, 50], [70,80,90,90]],
     social: {
         /* Add your social media links here */
-        github: 'https://github.com/Tanisha01-small',
+        github: 'https://github.com/Tanisha01-smal',
         linkedin: 'http://www.linkedin.com/in/tanisha01singhal',
         mail: 'mailto: tanishasinghal0101@gmail.com',
     },
